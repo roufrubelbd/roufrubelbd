@@ -1,27 +1,37 @@
+<!--- banner --->
+<img src="./Banner/linkedin_profile.jpg" alt="Hello world">
+<br/>
+<br/>
 <h1 align="">Hi, I'm Mohammad Abdur Rouf</h1>
 <h3 align="">A passionate MERN Stack Developer</h3>
 <h3 align="">Focused on building dynamic and user-friendly applications. I enjoy working with modern web technologies like JavaScript, React, Node.js, and MongoDB. I love learning new tools, improving my skills, and creating projects that solve real-world problems. When I'm not coding, I'm exploring new ways to grow as a developer and expand my knowledge of full-stack development.</h3>
 
-
 ### Languages:
+
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/roufrubelbd)
 
 ### CSS Frameworks & Libraries:
+
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/roufrubelbd)
 
 ### JavaScript Frameworks & Libraries:
+
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/roufrubelbd)
 
 ### Database & Model:
+
 [![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/roufrubelbd)
 
 ### Deployment Platform:
+
 [![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/roufrubelbd)
 
 ### Design & Graphics:
+
 [![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/roufrubelbd)
 
 ### Tools & Technologies:
+
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)](https://github.com/roufrubelbd)
 
 <br/> 
