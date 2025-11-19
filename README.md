@@ -4,6 +4,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roufrubelbd&label=Profile%20views&color=0e75b6&style=flat" alt="roufrubelbd" /> </p>
 
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/roufrubelbd)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/roufrubelbd)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/roufrubelbd)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/roufrubelbd)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/roufrubelbd)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/roufrubelbd)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)](https://github.com/roufrubelbd)
+
+<br/> 
+<br/>
+
 - 🌱 I’m currently learning **NextJs, TypeScript and Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/roufrubelbd](https://github.com/roufrubelbd)
