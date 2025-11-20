@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./Banner/linkedin_profile.jpg" alt="Hello world">
+<img src="./Banner/linkedin_profile.png" alt="Hello world">
 <h1 align="">Hi, I'm Mohammad Abdur Rouf</h1>
 <h3 align="">A passionate MERN Stack Developer</h3>
 <h3 align="">Focused on building dynamic and user-friendly applications. I enjoy working with modern web technologies like JavaScript, React, Node.js, and MongoDB. I love learning new tools, improving my skills, and creating projects that solve real-world problems. When I'm not coding, I'm exploring new ways to grow as a developer and expand my knowledge of full-stack development.</h3>
