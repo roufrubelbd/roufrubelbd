@@ -1,8 +1,8 @@
 <!--- banner --->
 <img src="./Banner/linkedin_profile.png" alt="Hello world">
 <h1 align="">Hi, I'm Mohammad Abdur Rouf</h1>
-<h3 align="">A passionate MERN Stack Developer</h3>
-<h3 align="">Focused on building dynamic and user-friendly applications. I enjoy working with modern web technologies like JavaScript, React, Node.js, and MongoDB. I love learning new tools, improving my skills, and creating projects that solve real-world problems. When I'm not coding, I'm exploring new ways to grow as a developer and expand my knowledge of full-stack development.</h3>
+<h3 align="">MERN Stack Developer | Frontend Developer | React | Next.js | Node.js | MongoDB | Aspiring Full-Stack</h3>
+<h3 align="">A dedicated MERN Stack Developer with strong experience in Frontend Development (React, Next.js, Tailwind CSS) and practical skills in Backend Development using Node.js, Express, and MongoDB. Skilled in building responsive, user-friendly, and scalable applications. Currently expanding full-stack capabilities through real projects involving REST APIs, authentication, and deployment pipelines.</h3>
 
 ### Languages:
 
